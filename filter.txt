@@ -34,6 +34,13 @@ syfm
 smyw
 www
 https
+.com
+.cc
+.gg
+.co
+.co.uk
+.xyz
+.it
 kys
 http
 idgaf
@@ -721,6 +728,8 @@ poopchute
 porn
 porno
 pornography
+password
+pass
 pornos
 prick
 pricks 
